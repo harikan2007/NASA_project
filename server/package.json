@@ -16,6 +16,8 @@
   },
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.3"
+    "csv-parse": "^5.0.4",
+    "express": "^4.17.3",
+    "nasa_project": "file:.."
   }
 }
